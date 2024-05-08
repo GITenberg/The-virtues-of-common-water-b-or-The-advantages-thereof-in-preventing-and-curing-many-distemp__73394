@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57054'
     url: http://www.gutenberg.org/2009/agents/57054
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Thoresby
+covers:
+- cover_type: archival
+  image_path: 73394-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, John
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '57045'
     url: http://www.gutenberg.org/2009/agents/57045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73394#The-virtues-of-common-water-b-or-The-advantages-thereof-in-preventing-and-curing-many-distemp_
 edition_note: Tenth edition, with additions.
 gutenberg_issued: '2024-04-14'
 gutenberg_type: Text
